@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning various programming languages and development tools
 - 💞️ I’m looking to collaborate on coding projects and innovative tech solutions
-- 📫 How to reach me: Gmail: mhdzaheer2003@gmail.com
+- 📫 How to reach me: Gmail: mhdzaheer2003@gmail.com Linkdin:https://www.linkedin.com/in/mohamed-zaheer-335292246
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding
 
