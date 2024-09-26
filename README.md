@@ -1,5 +1,3 @@
-## ***"Behind every great agent there's a great environment" -- DeepMind***
-
 <h1 align="center">Hi 👋, I'm Zaheer</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -15,15 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://zaheer2003.github.io/ZaheerPortfolio/](https://zaheer2003.github.io/ZaheerPortfolio/)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **mhdzaheer2003@gmail.com**
 
 - ⚡ Fun fact **Call Me Teddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-zaheer-335292246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-zaheer-335292246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-zaheer-335292246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-zaheer-335292246" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techy teddy gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techy teddy gaming" height="30" width="40" /></a>
 </p>
 
@@ -34,4 +30,3 @@
 <p><a href="https://www.buymeacoffee.com/Teddy Coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Teddy Coffe" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheer2003&" alt="zaheer2003" /></p>
-
