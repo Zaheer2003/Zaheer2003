@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **mhdzaheer2003@gmail.com**
 
-- ⚡ Fun fact: **Call Me Teddy**
+- ⚡ Fun fact: **Call Me Zaheer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
