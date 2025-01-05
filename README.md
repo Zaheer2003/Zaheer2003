@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaheer2003&label=Profile%20views&color=0e75b6&style=flat" alt="zaheer2003" /> </p>
 
-- 🔭 I’m currently working on **Test**
+- 🔭 I’m currently working on **ERP System Development**
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Test**
+- 👯 I’m looking to collaborate on **ERP System Development**
 
-- 🤝 I’m looking for help with **Test**
+- 🤝 I’m looking for help with **ERP System Development**
 
 - 👨‍💻 All of my projects are available at [https://zaheer2003.github.io/ZaheerPortfolio/](https://zaheer2003.github.io/ZaheerPortfolio/)
 
-- 📫 How to reach me **mhdzaheer2003@gmail.com**
+- 📫 How to reach me: **mhdzaheer2003@gmail.com**
 
-- ⚡ Fun fact **Call Me Teddy**
+- ⚡ Fun fact: **Call Me Teddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
