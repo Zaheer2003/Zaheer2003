@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -82,3 +82,12 @@
 </div>
 
 ###
+
+<h3 align="center">🐍 Contribution Snake</h3>
+  ![Snake animation](https://github.com/Zaheer2003/Zaheer2003/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <img src="https://github.com/Zaheer2003/Zaheer2003/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
