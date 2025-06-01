@@ -73,10 +73,4 @@
   <img src="https://streak-stats.demolab.com?user=Zaheer2003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-  <img src="https://github.com/Zaheer2003/Zaheer2003/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</div>
+>
